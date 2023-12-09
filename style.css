@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: auto;
+       
+
+}
+main{
+    border: solid black;
+    width: 465px;
+    padding-left:10px;
+
+}
+#btn{
+    margin-bottom: 10px;
+
+}
+#btn:hover{
+  background-color: red;
+}
+
+ h1{
+    background-color: red;
+    width: 550px;
+
+    
+    
+}
+
+#qtdVitoria, #qtdDerrota{
+    width: 100px;
+   
+}
+
